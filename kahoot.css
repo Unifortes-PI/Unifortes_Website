@@ -9,7 +9,6 @@ body {
   padding: 0;
 }
 
-
 #div_esquerda {
   width: 35%;
   height: 100%;
@@ -90,8 +89,6 @@ a {
   margin-right: 5px;
 }
 
-
-
 h1 {
   text-align: center;
 }
@@ -115,6 +112,7 @@ h1 {
   text-align: center;
   padding: 10px;
 }
+
 .answer {
   margin-bottom: 10px;
 }
@@ -151,11 +149,9 @@ h1 {
   display: none;
 }
 
-
 .container {
   display: flex;
 }
-
 
 section {
   width: 100%;
